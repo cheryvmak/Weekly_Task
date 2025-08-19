@@ -26,8 +26,19 @@ age = int(input("Enter your age: "))
 score = int(input("Enter your test score: "))
 citizenship = input("Are you a citizen of Nigeria(Yes or No):").capitalize()
 Enrollment = input("Are you a registered, full-time undergraduate student(Yes or No: ").capitalize()
-other_scholarship = input("on scholarship in the oil and gas industry whether national or international( Yes or No): ").capitalize()
-academic_qualific = input("Do you have five distinctions (As and Bs) in relevant subjects in your WAEC/WASSCE (May/June) exams, including English and Mathematics(Yes or No): ").title()
+other_scholarship = input("Are you on scholarship in the oil and gas industry whether national or international( Yes or No): ").capitalize()
+academic_qualific = input("Enter five subject including English and Mathematics: ").split()
 
-eligibility = (age < 18) and (score > 70) and (citizenship == "Yes") and (Enrollment == "Yes") and (other_scholarship == "Yes") and (academic_qualific == "Yes")      
+subject_1 = input(f"Enter your grade for {academic_qualific[0]}  : ").upper()
+subject_2 = input(f"Enter your grade for {academic_qualific[1]}  : ").upper()
+subject_3 = input(f"Enter your grade for {academic_qualific[2]}  : ").upper()
+subject_4 = input(f"Enter your grade for {academic_qualific[-2]} : ").upper()
+subject_5 = input(f"Enter your grade for {academic_qualific[-1]} : ").upper()
+
+verify_subj = {academic_qualific[0] : subject_1, academic_qualific[1] : subject_2, academic_qualific[2] : subject_3, academic_qualific[-2] : subject_4, academic_qualific[-1] : subject_5 }
+
+grade = (((subject_1 == 'A') or (subject_1 == 'B')) and ((subject_2 == 'A') or (subject_2 == 'B')) and ((subject_3 == 'A') or (subject_3 == 'B')) and ((subject_4 == 'A') or (subject_4 == 'B')) and ((subject_5 == 'A') or (subject_5 == 'B')))
+print(grade)
+
+eligibility = (age < 18) and (score > 70) and (citizenship == "Yes") and (Enrollment == "Yes") and (other_scholarship == "No") and (grade == True)      
 print(f"Candidate: {name}\nAge: {age}\nScore: {score}\nCitizenship: {citizenship}\nEnrollment: {Enrollment}\nOther_scholarship: {other_scholarship}\nAcademic_qualific: {academic_qualific}\nEligible: {eligibility}")
