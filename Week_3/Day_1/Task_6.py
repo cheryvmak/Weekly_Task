@@ -17,10 +17,10 @@ o_level = input("Do you five (5) credit passes at one sitting in relevant O'Leve
 p_utme = input("Are you eligible to participate in the university's online Post-UTME screening(Yes or No)?: ").title()
 
 # use logical operators to determine the departmental cut-off marks
-dept_cut_off = (age >= 16) and (score >= 200) and (score <= 320)
+dept_cut_off = (score >= 200) and (score <= 320)
 
 # this is criteria to offer admission using assignment operator
-final_Ad = (utme == dept_cut_off)
+final_Ad = (age >= 16) and (utme == dept_cut_off)
 #print("Admission status:", final_Ad)
 
 # this is to map the admission status
