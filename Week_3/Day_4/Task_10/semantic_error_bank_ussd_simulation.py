@@ -36,7 +36,7 @@ while True:
                     if tran_pin == pin:
                         print(f"The pin provided is correct")
                         if Account_Balance > amount:
-                            Account_Balance *= amount
+                            Account_Balance *= amount   #semantic error we will use -= not *=
                             print(f"transfer successful")
                             print(f"Your new account balance is: #{Account_Balance:,.2f}k")
                         else:
@@ -62,7 +62,7 @@ while True:
                 network_choice  = int(input("Select one of the option in the Network menu from(1-4): "))
                 print(f"Chosen Network name: {network_name[network_choice-1]}")
                 if Account_Balance > airtime_amount:
-                            Account_Balance *= airtime_amount
+                            Account_Balance *= airtime_amount  #semantic error we will use -= not *=
                             print(f"Your #{airtime_amount:,.2f} {network_name[network_choice-1]} airtime recharge card is successful")
                             print(f"Your new account balance is: #{Account_Balance:,.2f}k")
                             print(f"Your new airtime balance is: #{Airtime_bal+airtime_amount:,.2f}k")
@@ -93,7 +93,7 @@ while True:
                     print(f"\n You selected {plan} plan for ₦{price:}.")
                 
                 if Account_Balance > price:
-                            Account_Balance *= price
+                            Account_Balance *= price  #semantic error we will use -= not *=
                             print(f"Your #{plan} {network_name_2[network_choice_2-1]} data subscription is successful")
                             print(f"Your new account balance is: #{Account_Balance:,.2f}k")
                             Data_bal = int(Data_bal.replace("GB", ""))
@@ -115,7 +115,7 @@ while True:
                     shar_airtime = int(input('Enter airtime amount to share: '))
 
                     if Airtime_bal >= shar_airtime:
-                        Airtime_bal *= shar_airtime
+                        Airtime_bal *= shar_airtime    #semantic error we will use -= not *=
                         print(f"{shar_airtime} is sucessfully shared")
                         print(f"Your new airtime balance is {Airtime_bal}")
 

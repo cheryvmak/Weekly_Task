@@ -8,9 +8,9 @@ print("\n")
 new_city = input("Enter a new city to replace uyo: ").strip().title()
 
  # using control structure to replace third city with a new one
-if new_city: 
+if new_city   # Missing colon, There should be colon after new_city 
     cities[2] = new_city
-else:
+else    # Missing colon, There should be colon after  else
     print("please provide input")
 print(f"This is city list after replacing the third city:", cities)
 print("\n")

@@ -11,4 +11,5 @@ for char in clients.lower():
         count += 1
 
 # Print the result
-print(f"The number of vowel in it:", counts)
+print(f"The number of vowel in it:", counts) # name error since counts is not defined
+#                                            count should be used

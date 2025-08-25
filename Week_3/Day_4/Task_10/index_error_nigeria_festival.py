@@ -14,7 +14,7 @@ for info in festival_info:
 print("--" * 20)
 print("         Festival Details")
 print("--" * 20)
-print(f"Festival: \"{nigeria_festival_info[3]}\"")
+print(f"Festival: \"{nigeria_festival_info[3]}\"") # index error as there is no fourth positional element in the list festival_info
 print(f"Location: {nigeria_festival_info[1]}")
 print(f"Month Held: {nigeria_festival_info[-1]}")
 print("\n")

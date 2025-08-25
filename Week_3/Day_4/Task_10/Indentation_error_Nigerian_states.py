@@ -6,8 +6,8 @@ print("--"* 15)
 # enter 5 nigerian state using for loop
 states = ()
 for state in range(5):
-user = input(f"Enter state {state+1}: ")
-    states += (user,)
+user = input(f"Enter state {state+1}: ") # indentation error, user should be tab spaced
+    states += (user,)  # indentation error, states += (user,) should be tab spaced
 
 # Print first and last state
 print("\nFirst state entered:", states[0])
