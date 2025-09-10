@@ -10,3 +10,5 @@ distance = float(input("Enter the distance covered: "))
 fare = float(input("Enter the fare rate: "))
 total_fare = distance * fare
 print(f"The total fare is {total_fare:.2f}")
+
+

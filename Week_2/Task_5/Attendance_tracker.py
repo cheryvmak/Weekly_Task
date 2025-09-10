@@ -1,6 +1,6 @@
 #Task 6
 
-# Enter day of week ina tuple
+# Enter day of week in a tuple
 days_of_the_week = ("Sunday", "Monday","Tuesday", "Wednesday","Thursday", "Friday")
 
 # Enter month of the year in a tuple

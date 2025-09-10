@@ -1,0 +1,17 @@
+
+voters = set()
+
+while True:
+    name = input("Enter voter name (or 'done' to finish): ")
+    
+    if name.lower() == 'done':
+        break
+        
+    if name in voters:
+        print(f"Warning: {name} is already registered!")
+    else:
+        voters.add(name)
+        print(f"{name} successfully registered.")
+
+print(f"\nTotal number of unique voters: {len(voters)}")
+

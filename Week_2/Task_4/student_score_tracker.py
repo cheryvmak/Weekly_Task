@@ -13,8 +13,7 @@ student_score_2 = input(f"Enter {student_name_2} score: ")
 student_score_3 = input(f"Enter {student_name_3} score: ")
 
 # create empty list for both student name and student  score
-student_name =  []
-student_score = []
+
 
 # attached the entered student name to the empty list student name
 student_name.append(student_name_1)

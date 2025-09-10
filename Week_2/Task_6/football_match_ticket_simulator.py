@@ -6,7 +6,7 @@ print("All seat number from 1 to 50")
 print("--" * 25)
 
 # create seat numbers from 1 to 50 in a set
-seat_no = set(range(1,51))
+seat_no = set(range(1, 51))
 
 # print the seat numbers
 print(seat_no)
