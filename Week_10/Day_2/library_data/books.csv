@@ -1,0 +1,101 @@
+BookID,Title,AuthorID,Genre,DateOfPublication,Publisher,ISBN,Language,AvailableCopies,AgeRating
+1,The Handmaid's Tale,1,Dystopian Fiction,1985-08-01,McClelland & Stewart,9780771008795,English,3,16+
+2,Cat's Eye,1,Literary Fiction,1988-09-01,McClelland & Stewart,9780771008801,English,2,16+
+3,The Blind Assassin,1,Literary Fiction,2000-09-01,McClelland & Stewart,9780771008818,English,1,18+
+4,Norwegian Wood,2,Literary Fiction,1987-09-04,Kodansha,9784062748687,English,2,18+
+5,Kafka on the Shore,2,Magical Realism,2002-09-12,Shinchosha,9784101001548,English,3,16+
+6,1Q84,2,Science Fiction,2009-05-29,Shinchosha,9784103534235,English,2,18+
+7,Americanah,3,Literary Fiction,2013-05-14,Knopf,9780307271082,English,4,16+
+8,Half of a Yellow Sun,3,Historical Fiction,2006-09-12,Knopf,9781400044160,English,2,18+
+9,Purple Hibiscus,3,Literary Fiction,2003-10-01,Algonquin Books,9781565124271,English,3,16+
+10,My Brilliant Friend,4,Literary Fiction,2011-10-01,Europa Editions,9781609450786,English,2,16+
+11,The Story of a New Name,4,Literary Fiction,2012-09-01,Europa Editions,9781609451349,English,1,16+
+12,Those Who Leave and Those Who Stay,4,Literary Fiction,2013-09-01,Europa Editions,9781609452339,English,1,16+
+13,Midnight's Children,5,Magical Realism,1981-04-01,Jonathan Cape,9780224020435,English,1,18+
+14,The Satanic Verses,5,Literary Fiction,1988-09-26,Viking,9780670825370,English,2,18+
+15,The Moor's Last Sigh,5,Literary Fiction,1995-09-01,Jonathan Cape,9780224042864,English,1,18+
+16,Beloved,6,Historical Fiction,1987-09-01,Knopf,9780394535968,English,3,18+
+17,Song of Solomon,6,Literary Fiction,1977-09-01,Knopf,9780394497051,English,2,16+
+18,The Bluest Eye,6,Literary Fiction,1970-06-01,Holt Rinehart Winston,9780030840357,English,2,18+
+19,One Hundred Years of Solitude,7,Magical Realism,1967-05-30,Harper & Row,9780060883287,English,2,16+
+20,Love in the Time of Cholera,7,Romance,1985-09-01,Editorial Oveja Negra,9788439720632,English,3,18+
+21,Chronicle of a Death Foretold,7,Literary Fiction,1981-04-01,Editorial La Oveja Negra,9788439720649,English,1,16+
+22,Sapiens,8,Non-fiction,2011-01-01,Dvir Publishing,9780062316097,English,5,14+
+23,Homo Deus,8,Non-fiction,2015-02-01,Dvir Publishing,9780062464347,English,4,16+
+24,21 Lessons for the 21st Century,8,Non-fiction,2018-08-21,Spiegel & Grau,9780525512172,English,3,16+
+25,The Shining,9,Horror,1977-01-28,Doubleday,9780385121675,English,2,18+
+26,It,9,Horror,1986-09-15,Viking,9780670813025,English,3,18+
+27,The Stand,9,Post-apocalyptic,1978-10-03,Doubleday,9780385121682,English,2,18+
+28,Carrie,9,Horror,1974-04-05,Doubleday,9780385086950,English,4,16+
+29,Pet Sematary,9,Horror,1983-11-14,Doubleday,9780385186797,English,1,18+
+30,Harry Potter and the Philosopher's Stone,10,Fantasy,1997-06-26,Bloomsbury,9780747532699,English,6,8+
+31,Harry Potter and the Chamber of Secrets,10,Fantasy,1998-07-02,Bloomsbury,9780747538493,English,5,8+
+32,Harry Potter and the Prisoner of Azkaban,10,Fantasy,1999-07-08,Bloomsbury,9780747542155,English,4,8+
+33,Harry Potter and the Goblet of Fire,10,Fantasy,2000-07-08,Bloomsbury,9780747546245,English,3,10+
+34,Harry Potter and the Order of the Phoenix,10,Fantasy,2003-06-21,Bloomsbury,9780747551003,English,2,12+
+35,Murder on the Orient Express,11,Mystery,1934-01-01,Collins Crime Club,9780007119318,English,3,12+
+36,And Then There Were None,11,Mystery,1939-11-06,Collins Crime Club,9780007136834,English,4,14+
+37,The Murder of Roger Ackroyd,11,Mystery,1926-06-01,William Collins Sons,9780007527502,English,2,12+
+38,Death on the Nile,11,Mystery,1937-11-01,Collins Crime Club,9780007119325,English,3,12+
+39,The ABC Murders,11,Mystery,1936-01-06,Collins Crime Club,9780007119332,English,2,12+
+40,The Alchemist,12,Philosophical Fiction,1988-01-01,HarperCollins,9780062315007,English,4,12+
+41,Brida,12,Philosophical Fiction,1990-01-01,Rocco,9788532511935,English,2,16+
+42,The Pilgrimage,12,Philosophical Fiction,1987-01-01,Rocco,9788532511911,English,1,16+
+43,Eleven Minutes,12,Romance,2003-08-01,HarperCollins,9780060589288,English,3,18+
+44,Veronika Decides to Die,12,Literary Fiction,1998-08-01,Rocco,9788532512819,English,2,18+
+45,The Kite Runner,13,Historical Fiction,2003-05-29,Riverhead Books,9781573222457,English,2,16+
+46,A Thousand Splendid Suns,13,Historical Fiction,2007-05-22,Riverhead Books,9781594489501,English,3,18+
+47,And the Mountains Echoed,13,Literary Fiction,2013-05-21,Riverhead Books,9781594632556,English,1,16+
+48,Sea Prayer,13,Children's Literature,2018-09-18,Riverhead Books,9780525554943,English,2,8+
+49,The House of the Spirits,14,Magical Realism,1982-01-01,Plaza & Janés,9780553383805,English,1,16+
+50,City of the Beasts,14,Fantasy,2002-01-01,Rayo,9780060509187,English,2,12+
+51,Atlas Shrugged,15,Philosophical Fiction,1957-10-10,Random House,9780451191144,English,2,16+
+52,The Fountainhead,15,Philosophical Fiction,1943-05-07,Bobbs-Merrill,9780451191151,English,1,16+
+53,Anthem,15,Dystopian Fiction,1938-01-01,Cassell,9780451191168,English,3,14+
+54,Things Fall Apart,16,Literary Fiction,1958-06-17,William Heinemann,9780385474542,English,4,16+
+55,Arrow of God,16,Literary Fiction,1964-03-25,Heinemann,9780385014809,English,2,16+
+56,The Labyrinth of Solitude,17,Essay,1950-01-01,Cuadernos Americanos,9780802150424,English,1,18+
+57,The Name of the Rose,18,Historical Mystery,1980-09-01,Bompiani,9780156001311,English,2,16+
+58,Foucault's Pendulum,18,Literary Fiction,1988-09-01,Bompiani,9780156032971,English,1,18+
+59,The Unbearable Lightness of Being,19,Literary Fiction,1984-01-01,Harper & Row,9780060932138,English,2,18+
+60,The Book of Laughter and Forgetting,19,Literary Fiction,1979-01-01,Knopf,9780571119943,English,1,18+
+61,Never Let Me Go,20,Science Fiction,2005-03-01,Faber & Faber,9780571224142,English,3,16+
+62,The Remains of the Day,20,Literary Fiction,1989-05-01,Faber & Faber,9780571138777,English,2,14+
+63,Klara and the Sun,20,Science Fiction,2021-03-02,Faber & Faber,9780571364886,English,4,14+
+64,White Teeth,21,Literary Fiction,2000-01-27,Hamish Hamilton,9780241954959,English,2,16+
+65,On Beauty,21,Literary Fiction,2005-09-01,Hamish Hamilton,9780141019451,English,1,16+
+66,The Corrections,22,Literary Fiction,2001-09-01,Farrar Straus Giroux,9780374129989,English,2,18+
+67,Freedom,22,Literary Fiction,2010-08-31,Farrar Straus Giroux,9780374158460,English,1,18+
+68,The Secret History,23,Literary Fiction,1992-09-16,Knopf,9780679410324,English,3,18+
+69,The Goldfinch,23,Literary Fiction,2013-10-22,Little Brown,9780316055437,English,2,16+
+70,Infinite Jest,24,Literary Fiction,1996-02-01,Little Brown,9780316066525,English,1,18+
+71,The Brief Wondrous Life of Oscar Wao,24,Literary Fiction,2007-09-06,Riverhead Books,9781594483295,English,2,16+
+72,A Visit from the Goon Squad,25,Literary Fiction,2010-06-08,Knopf,9780307592835,English,2,16+
+73,Manhattan Beach,25,Historical Fiction,2017-10-03,Scribner,9781476746678,English,1,16+
+74,The Underground Railroad,26,Historical Fiction,2016-08-02,Doubleday,9780385542364,English,3,18+
+75,The Intuitionist,26,Literary Fiction,1999-01-01,Anchor Books,9780385493000,English,1,16+
+76,An American Marriage,27,Literary Fiction,2018-02-06,Algonquin Books,9781616201340,English,2,18+
+77,Silver Sparrow,27,Literary Fiction,2011-06-07,Algonquin Books,9781565126770,English,1,16+
+78,Interpreter of Maladies,28,Short Stories,1999-05-22,Houghton Mifflin,9780395927205,English,3,16+
+79,The Namesake,28,Literary Fiction,2003-09-01,Houghton Mifflin,9780618485222,English,2,16+
+80,The Joy Luck Club,29,Literary Fiction,1989-03-01,Putnam,9780399134203,English,4,16+
+81,The Kitchen God's Wife,29,Literary Fiction,1991-06-01,Putnam,9780399136405,English,1,16+
+82,The Woman Warrior,30,Memoir,1976-01-01,Knopf,9780394400679,English,2,16+
+83,China Men,30,Literary Fiction,1980-01-01,Knopf,9780394500737,English,1,16+
+84,Educated,31,Memoir,2018-02-20,Random House,9780399590504,English,5,16+
+85,Becoming,32,Memoir,2018-11-13,Crown,9781524763138,English,6,14+
+86,A Promised Land,33,Memoir,2020-11-17,Crown,9781524763169,English,4,14+
+87,Dreams from My Father,33,Memoir,1995-07-18,Times Books,9781400082773,English,2,16+
+88,Outliers,34,Non-fiction,2008-11-18,Little Brown,9780316017930,English,3,14+
+89,The Tipping Point,34,Non-fiction,2000-03-01,Little Brown,9780316316965,English,4,14+
+90,Blink,34,Non-fiction,2005-01-11,Little Brown,9780316172325,English,2,14+
+91,A Walk in the Woods,35,Travel,1998-05-04,Broadway Books,9780767902526,English,3,14+
+92,At Home,35,Non-fiction,2010-05-04,Doubleday,9780767919388,English,2,14+
+93,Stiff,36,Science,2003-04-01,W. W. Norton,9780393050936,English,2,16+
+94,Packing for Mars,36,Science,2010-08-10,W. W. Norton,9780393068474,English,3,14+
+95,The Sandman,37,Fantasy,1989-01-01,DC Comics,9781401225759,English,4,16+
+96,American Gods,37,Fantasy,2001-06-19,William Morrow,9780380789030,English,3,18+
+97,Good Omens,37,Fantasy,1990-05-01,Workman,9780425132159,English,5,14+
+98,The Colour of Magic,38,Fantasy,1983-11-01,Colin Smythe,9780552124751,English,2,14+
+99,Mort,38,Fantasy,1987-11-01,Gollancz,9780552131063,English,3,14+
+100,A Game of Thrones,39,Fantasy,1996-08-01,Bantam Spectra,9780553103540,English,4,18+

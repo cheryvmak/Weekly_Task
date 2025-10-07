@@ -1,0 +1,81 @@
+OrderID,OrderDate,BookID,Cost,Quantity,SupplyDate,FulfillmentStatus,NameOfSupplier
+1,2024-01-10,1,12.99,5,2024-01-18,Fulfilled,Baker & Taylor
+2,2024-01-15,22,15.95,8,2024-01-25,Fulfilled,Ingram Book Group
+3,2024-02-05,30,8.99,10,2024-02-15,Fulfilled,Scholastic
+4,2024-02-12,7,14.50,6,2024-02-22,Fulfilled,Random House
+5,2024-02-20,19,13.75,4,2024-03-02,Fulfilled,HarperCollins
+6,2024-03-01,4,16.20,3,2024-03-12,Fulfilled,Penguin Random House
+7,2024-03-05,35,11.99,5,2024-03-18,Fulfilled,Agatha Christie Ltd
+8,2024-03-10,40,10.95,7,2024-03-22,Pending,HarperCollins
+9,2024-03-15,10,13.99,4,2024-03-28,Pending,Europa Editions
+10,2024-03-20,25,12.50,6,2024-04-05,Pending,Doubleday
+11,2024-03-22,16,14.95,5,2024-04-08,Processing,Vintage Books
+12,2024-03-25,45,13.25,4,2024-04-10,Processing,Riverhead Books
+13,2024-01-12,54,16.75,3,2024-01-22,Fulfilled,Heinemann
+14,2024-01-18,84,18.99,12,2024-01-28,Fulfilled,Random House
+15,2024-01-25,88,17.50,8,2024-02-05,Fulfilled,Little Brown
+16,2024-02-01,95,22.95,6,2024-02-12,Fulfilled,DC Comics
+17,2024-02-08,100,19.99,10,2024-02-18,Fulfilled,Bantam Spectra
+18,2024-02-15,2,14.25,5,2024-02-25,Fulfilled,McClelland & Stewart
+19,2024-02-22,61,15.75,4,2024-03-05,Fulfilled,Faber & Faber
+20,2024-02-28,68,21.50,3,2024-03-10,Fulfilled,Knopf
+21,2024-03-06,75,18.25,7,2024-03-18,Fulfilled,Doubleday
+22,2024-03-12,8,16.99,9,2024-03-25,Fulfilled,Shinchosha
+23,2024-03-18,36,12.75,6,2024-03-30,Pending,Collins Crime Club
+24,2024-03-25,43,13.95,5,2024-04-08,Pending,Rocco
+25,2024-03-28,78,14.50,8,2024-04-12,Processing,Houghton Mifflin
+26,2024-01-20,85,24.99,15,2024-01-30,Fulfilled,Crown
+27,2024-01-28,6,18.75,4,2024-02-08,Fulfilled,Shinchosha
+28,2024-02-05,31,9.99,12,2024-02-15,Fulfilled,Bloomsbury
+29,2024-02-12,58,17.25,3,2024-02-22,Fulfilled,Bompiani
+30,2024-02-18,72,19.50,6,2024-02-28,Fulfilled,Knopf
+31,2024-02-25,97,11.25,8,2024-03-08,Fulfilled,Workman
+32,2024-03-02,12,15.99,5,2024-03-15,Fulfilled,Europa Editions
+33,2024-03-08,38,10.75,7,2024-03-20,Fulfilled,Collins Crime Club
+34,2024-03-15,65,16.50,4,2024-03-28,Pending,Hamish Hamilton
+35,2024-03-22,81,13.99,9,2024-04-05,Pending,Putnam
+36,2024-03-28,92,15.25,6,2024-04-12,Processing,Doubleday
+37,2024-01-05,5,17.99,5,2024-01-15,Fulfilled,Kodansha
+38,2024-01-12,32,8.50,10,2024-01-22,Fulfilled,Bloomsbury
+39,2024-01-20,59,20.75,3,2024-01-30,Fulfilled,Harper & Row
+40,2024-01-28,76,17.25,6,2024-02-08,Fulfilled,Algonquin Books
+41,2024-02-02,98,12.99,8,2024-02-12,Fulfilled,Colin Smythe
+42,2024-02-10,15,19.95,4,2024-02-20,Fulfilled,Jonathan Cape
+43,2024-02-18,41,11.50,7,2024-02-28,Fulfilled,Rocco
+44,2024-02-25,67,18.99,5,2024-03-08,Fulfilled,Farrar Straus Giroux
+45,2024-03-04,83,14.75,9,2024-03-15,Fulfilled,Knopf
+46,2024-03-12,99,13.25,6,2024-03-25,Fulfilled,Gollancz
+47,2024-03-18,20,16.50,4,2024-03-30,Pending,Editorial Oveja Negra
+48,2024-03-25,46,15.99,7,2024-04-08,Pending,Riverhead Books
+49,2024-01-08,73,20.25,3,2024-01-18,Fulfilled,Scribner
+50,2024-01-15,86,23.99,11,2024-01-25,Fulfilled,Crown
+51,2024-01-22,26,14.25,5,2024-02-02,Fulfilled,Viking
+52,2024-01-30,52,17.75,4,2024-02-10,Fulfilled,Bobbs-Merrill
+53,2024-02-06,79,15.50,8,2024-02-16,Fulfilled,Houghton Mifflin
+54,2024-02-14,93,16.99,6,2024-02-24,Fulfilled,W. W. Norton
+55,2024-02-20,3,18.50,3,2024-03-02,Fulfilled,McClelland & Stewart
+56,2024-02-28,27,13.75,9,2024-03-10,Fulfilled,Doubleday
+57,2024-03-06,53,12.25,7,2024-03-18,Fulfilled,Cassell
+58,2024-03-14,80,14.99,5,2024-03-26,Fulfilled,Putnam
+59,2024-03-20,94,17.50,4,2024-04-02,Pending,W. W. Norton
+60,2024-03-28,9,15.25,8,2024-04-10,Processing,Doubleday
+61,2024-01-10,33,9.75,14,2024-01-20,Fulfilled,Bloomsbury
+62,2024-01-18,60,21.99,2,2024-01-28,Fulfilled,Knopf
+63,2024-01-25,87,25.50,8,2024-02-05,Fulfilled,Times Books
+64,2024-02-01,11,16.25,6,2024-02-12,Fulfilled,Europa Editions
+65,2024-02-08,34,10.99,12,2024-02-18,Fulfilled,Bloomsbury
+66,2024-02-15,21,14.75,5,2024-02-25,Fulfilled,Editorial La Oveja Negra
+67,2024-02-22,47,16.99,4,2024-03-05,Fulfilled,Riverhead Books
+68,2024-03-01,74,19.25,7,2024-03-12,Fulfilled,Doubleday
+69,2024-03-08,89,18.75,6,2024-03-20,Fulfilled,Little Brown
+70,2024-03-15,14,17.50,3,2024-03-28,Pending,Viking
+71,2024-03-22,37,11.99,9,2024-04-05,Pending,Collins Crime Club
+72,2024-03-30,63,20.99,5,2024-04-12,Processing,Faber & Faber
+73,2024-01-03,90,16.75,7,2024-01-13,Fulfilled,Little Brown
+74,2024-01-11,17,15.25,4,2024-01-21,Fulfilled,Knopf
+75,2024-01-19,42,12.50,8,2024-01-29,Fulfilled,Rocco
+76,2024-01-27,69,22.75,3,2024-02-07,Fulfilled,Little Brown
+77,2024-02-03,91,14.99,6,2024-02-13,Fulfilled,Broadway Books
+78,2024-02-11,18,13.25,9,2024-02-21,Fulfilled,Knopf
+79,2024-02-19,44,11.75,5,2024-03-01,Fulfilled,Rocco
+80,2024-02-27,71,25.99,4,2024-03-09,Fulfilled,Riverhead Books

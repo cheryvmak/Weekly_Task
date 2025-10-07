@@ -1,0 +1,26 @@
+StaffID,Name,JobTitle,DepartmentID,Gender,Address,PhoneNumber,HireDate,ManagerID
+1,Jennifer Walsh,Head Librarian,1,Female,892 Library Lane Springfield IL,+1-555-2001,2018-01-15,NULL
+2,Mark Patterson,Assistant Librarian,1,Male,445 Book Street Chicago IL,+1-555-2002,2019-03-10,1
+3,Rebecca Foster,Children's Librarian,2,Female,678 Story Avenue Evanston IL,+1-555-2003,2020-06-22,1
+4,Thomas Anderson,Reference Librarian,3,Male,234 Research Drive Naperville IL,+1-555-2004,2021-01-08,1
+5,Maria Gonzalez,Circulation Manager,4,Female,567 Checkout Lane Aurora IL,+1-555-2005,2019-09-15,1
+6,Kevin O'Brien,Technical Services Manager,5,Male,123 Catalog Street Rockford IL,+1-555-2006,2020-11-03,1
+7,Laura Mitchell,Youth Services Coordinator,2,Female,789 Teen Avenue Peoria IL,+1-555-2007,2021-04-18,3
+8,Daniel Rodriguez,IT Support Specialist,6,Male,456 Technology Road Joliet IL,+1-555-2008,2022-02-01,1
+9,Carol Williams,Acquisitions Librarian,5,Female,321 Purchase Street Waukegan IL,+1-555-2009,2019-07-12,6
+10,Paul Johnson,Security Guard,7,Male,654 Safety Lane Schaumburg IL,+1-555-2010,2021-08-25,1
+11,Susan Miller,Branch Manager,1,Female,987 Branch Road Springfield IL,+1-555-2011,2017-05-10,1
+12,Robert Davis,Interlibrary Loan Coordinator,3,Male,147 Exchange Street Chicago IL,+1-555-2012,2020-03-14,4
+13,Patricia Wilson,Adult Programming Librarian,8,Female,258 Event Avenue Evanston IL,+1-555-2013,2021-09-07,1
+14,James Brown,Maintenance Supervisor,7,Male,369 Repair Drive Naperville IL,+1-555-2014,2018-12-20,1
+15,Linda Garcia,Community Outreach Coordinator,8,Female,741 Public Lane Aurora IL,+1-555-2015,2020-08-11,1
+16,Michael Martinez,Digital Services Librarian,6,Male,852 Digital Street Rockford IL,+1-555-2016,2022-01-25,8
+17,Barbara Taylor,Collection Development Specialist,5,Female,963 Selection Avenue Peoria IL,+1-555-2017,2019-11-18,6
+18,William Anderson,Evening Supervisor,4,Male,159 Night Street Joliet IL,+1-555-2018,2021-06-03,5
+19,Elizabeth Thomas,Senior Reference Librarian,3,Female,357 Knowledge Drive Waukegan IL,+1-555-2019,2018-04-16,4
+20,David Jackson,Systems Administrator,6,Male,468 Network Lane Schaumburg IL,+1-555-2020,2020-10-29,8
+21,Mary White,Cataloging Librarian,5,Female,579 Index Street Springfield IL,+1-555-2021,2019-02-08,6
+22,Charles Harris,Part-time Librarian,1,Male,681 Flexible Avenue Chicago IL,+1-555-2022,2022-07-14,2
+23,Lisa Clark,Special Collections Librarian,3,Female,792 Archive Drive Evanston IL,+1-555-2023,2020-12-01,4
+24,Christopher Lewis,Custodial Supervisor,7,Male,814 Clean Street Naperville IL,+1-555-2024,2019-05-23,14
+25,Sarah Robinson,Volunteer Coordinator,8,Female,925 Service Lane Aurora IL,+1-555-2025,2021-03-17,15
