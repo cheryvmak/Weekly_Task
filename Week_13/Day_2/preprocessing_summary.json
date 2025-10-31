@@ -1,0 +1,37 @@
+{
+  "original_shape": [
+    614,
+    12
+  ],
+  "final_shape": [
+    614,
+    15
+  ],
+  "selected_features": [
+    "Credit_History",
+    "Married",
+    "Education",
+    "ApplicantIncome_log",
+    "CoapplicantIncome_log",
+    "LoanAmount_log",
+    "TotalIncome",
+    "Income_Loan_Ratio"
+  ],
+  "engineered_features": [
+    "ApplicantIncome_log",
+    "CoapplicantIncome_log",
+    "LoanAmount_log",
+    "TotalIncome",
+    "Income_Loan_Ratio"
+  ],
+  "train_samples": 368,
+  "val_samples": 123,
+  "test_samples": 123,
+  "scaling_method": "StandardScaler",
+  "outlier_treatment": "IQR_capping",
+  "log_transformed": [
+    "ApplicantIncome",
+    "CoapplicantIncome",
+    "LoanAmount"
+  ]
+}
