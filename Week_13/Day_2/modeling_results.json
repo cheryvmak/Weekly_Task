@@ -1,0 +1,39 @@
+{
+  "best_model": "Random Forest",
+  "best_model_score": 0.6765427769985974,
+  "test_accuracy": 0.8699186991869918,
+  "test_balanced_acc": 0.8331269349845201,
+  "test_f1": 0.842911877394636,
+  "confusion_matrix": [
+    [
+      28,
+      10
+    ],
+    [
+      6,
+      79
+    ]
+  ],
+  "feature_importance": [
+    {
+      "feature": "Credit_History",
+      "importance": 0.537961069447745
+    },
+    {
+      "feature": "TotalIncome",
+      "importance": 0.2133745152474966
+    },
+    {
+      "feature": "Income_Loan_Ratio",
+      "importance": 0.2040626127672251
+    },
+    {
+      "feature": "Education",
+      "importance": 0.02985719299822519
+    },
+    {
+      "feature": "Married",
+      "importance": 0.014744609539308052
+    }
+  ]
+}

@@ -11,16 +11,10 @@
     "Credit_History",
     "Married",
     "Education",
-    "ApplicantIncome_log",
-    "CoapplicantIncome_log",
-    "LoanAmount_log",
     "TotalIncome",
     "Income_Loan_Ratio"
   ],
   "engineered_features": [
-    "ApplicantIncome_log",
-    "CoapplicantIncome_log",
-    "LoanAmount_log",
     "TotalIncome",
     "Income_Loan_Ratio"
   ],
