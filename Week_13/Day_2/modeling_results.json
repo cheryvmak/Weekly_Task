@@ -1,13 +1,13 @@
 {
   "best_model": "Random Forest",
   "best_model_score": 0.6765427769985974,
-  "test_accuracy": 0.8699186991869918,
-  "test_balanced_acc": 0.8331269349845201,
-  "test_f1": 0.842911877394636,
+  "test_accuracy": 0.8617886178861789,
+  "test_balanced_acc": 0.819969040247678,
+  "test_f1": 0.8317102615694165,
   "confusion_matrix": [
     [
-      28,
-      10
+      27,
+      11
     ],
     [
       6,
@@ -17,23 +17,23 @@
   "feature_importance": [
     {
       "feature": "Credit_History",
-      "importance": 0.537961069447745
-    },
-    {
-      "feature": "TotalIncome",
-      "importance": 0.2133745152474966
+      "importance": 0.5257311451254395
     },
     {
       "feature": "Income_Loan_Ratio",
-      "importance": 0.2040626127672251
+      "importance": 0.22177935073267865
+    },
+    {
+      "feature": "TotalIncome",
+      "importance": 0.21025309090380367
     },
     {
       "feature": "Education",
-      "importance": 0.02985719299822519
+      "importance": 0.027659714454358556
     },
     {
       "feature": "Married",
-      "importance": 0.014744609539308052
+      "importance": 0.014576698783719741
     }
   ]
 }
