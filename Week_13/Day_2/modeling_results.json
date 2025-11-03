@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "best_model": "Random Forest",
   "best_model_score": 0.6765427769985974,
   "test_accuracy": 0.8617886178861789,
@@ -8,12 +9,24 @@
     [
       27,
       11
+=======
+  "best_model": "Logistic Regression",
+  "best_model_score": 0.49903942211634517,
+  "test_accuracy": 0.5365853658536586,
+  "test_balanced_acc": 0.4828173374613003,
+  "test_f1": 0.48177988025722523,
+  "confusion_matrix": [
+    [
+      13,
+      25
+>>>>>>> 50d5cf70238f8809df08ec12584e02d03f962f51
     ],
     [
-      6,
-      79
+      32,
+      53
     ]
   ],
+<<<<<<< HEAD
   "feature_importance": [
     {
       "feature": "Credit_History",
@@ -36,4 +49,7 @@
       "importance": 0.014576698783719741
     }
   ]
+=======
+  "feature_importance": null
+>>>>>>> 50d5cf70238f8809df08ec12584e02d03f962f51
 }
