@@ -8,10 +8,9 @@
     15
   ],
   "selected_features": [
-    "ApplicantIncome",
-    "CoapplicantIncome",
-    "Self_Employed",
-    "Loan_Amount_Term",
+    "Credit_History",
+    "Married",
+    "Education",
     "TotalIncome",
     "Income_Loan_Ratio"
   ],
