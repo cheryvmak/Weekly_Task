@@ -1,0 +1,39 @@
+Understanding Web APIs
+
+An API (Application Programming Interface) is a set of rules and protocols that allows different software applications to communicate with each other. Web APIs specifically use HTTP protocols to enable communication over the internet.
+
+REST APIs:
+REST (Representational State Transfer) is the most common architectural style for web APIs. RESTful APIs use standard HTTP methods:
+- GET: Retrieve data from the server
+- POST: Send new data to the server
+- PUT: Update existing data
+- DELETE: Remove data from the server
+
+HTTP Status Codes:
+APIs communicate results through status codes:
+- 200: Success
+- 201: Created
+- 400: Bad request
+- 401: Unauthorized
+- 404: Not found
+- 500: Server error
+
+API Request Components:
+1. Endpoint: The URL where the API can be accessed
+2. Headers: Additional information like authentication tokens
+3. Body: Data being sent with the request (for POST/PUT)
+4. Parameters: Query parameters or path variables
+
+JSON Format:
+Most modern APIs use JSON (JavaScript Object Notation) for data exchange due to its simplicity and language-independent nature. JSON represents data as key-value pairs and supports nested structures.
+
+API Authentication:
+Common authentication methods include API keys, OAuth tokens, and JWT (JSON Web Tokens). These ensure that only authorized users can access protected resources.
+
+Best Practices:
+- Use proper HTTP methods
+- Return appropriate status codes
+- Version your API
+- Provide clear documentation
+- Implement rate limiting
+- Use HTTPS for security

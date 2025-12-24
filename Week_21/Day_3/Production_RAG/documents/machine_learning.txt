@@ -1,0 +1,13 @@
+Machine Learning Fundamentals
+
+Machine learning is a subset of artificial intelligence that enables computers to learn from data without being explicitly programmed. It focuses on developing algorithms that can identify patterns and make decisions based on input data.
+
+There are three main types of machine learning:
+
+1. Supervised Learning: The algorithm learns from labeled training data. Common applications include classification and regression tasks. Examples include email spam detection and house price prediction.
+
+2. Unsupervised Learning: The algorithm finds patterns in unlabeled data. Clustering and dimensionality reduction are common techniques. Applications include customer segmentation and anomaly detection.
+
+3. Reinforcement Learning: The algorithm learns through trial and error by receiving rewards or penalties. This is commonly used in robotics, game playing, and autonomous vehicles.
+
+Key concepts in machine learning include training data, test data, features, labels, and model evaluation metrics such as accuracy, precision, and recall.

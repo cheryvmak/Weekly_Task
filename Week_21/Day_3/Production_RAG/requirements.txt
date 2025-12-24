@@ -1,0 +1,16 @@
+# LangChain and RAG components
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-openai==0.0.2
+chromadb==0.4.18
+tiktoken==0.5.2
+openai==1.6.1
+
+# API framework
+fastapi==0.104.1
+uvicorn==0.24.0
+pydantic==2.5.0
+
+# Utilities
+python-multipart==0.0.6
+python-dotenv==1.0.0

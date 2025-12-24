@@ -1,0 +1,25 @@
+Python Programming Basics
+
+Python is a high-level, interpreted programming language known for its simplicity and readability. It was created by Guido van Rossum and first released in 1991.
+
+Key Features of Python:
+- Easy to learn and read syntax
+- Dynamic typing and automatic memory management
+- Extensive standard library
+- Support for multiple programming paradigms (procedural, object-oriented, functional)
+- Large and active community
+
+Python Data Types:
+Python has several built-in data types including integers, floats, strings, lists, tuples, dictionaries, and sets. Lists are mutable ordered collections, while tuples are immutable. Dictionaries store key-value pairs.
+
+Control Structures:
+Python uses if-elif-else statements for conditional execution and for/while loops for iteration. List comprehensions provide a concise way to create lists.
+
+Functions:
+Functions in Python are defined using the def keyword. They can accept positional arguments, keyword arguments, and default parameters. Python also supports lambda functions for simple operations.
+
+Popular Python Applications:
+- Web development (Django, Flask)
+- Data science and machine learning (NumPy, pandas, scikit-learn)
+- Automation and scripting
+- Scientific computing
